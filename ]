@@ -1,0 +1,13 @@
+Revert "rename index.html to inde.html"
+
+This reverts commit f99c7219108337b35abac4e33e0edcb5fb470bdf.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch readme-update
+# Your branch is up to date with 'origin/readme-update'.
+#
+# Changes to be committed:
+#	renamed:    inde.html -> index.html
+#
